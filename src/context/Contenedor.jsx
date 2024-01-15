@@ -2,7 +2,7 @@
 
 // 1 importo createContex
 // 2 le Pongo nombre al contexto "Contenido"
-import { bdatos  } from "../data/data.js"; 
+import { bdatos } from "../data/data.js"; 
 import { createContext, useState , useEffect } from "react";
 
 // Almacena datos

@@ -1,6 +1,7 @@
 {
   "name": "agendar-tareas2",
   "version": "0.1.0",
+  "homepage": "https://ygdani89.github.io/React-scheduleTasks",
   "private": true,
    
   "dependencies": {
